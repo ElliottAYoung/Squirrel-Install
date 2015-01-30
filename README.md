@@ -17,6 +17,8 @@ If it worked you'll see this error message:
 ```
 fatal: Unable to read current working directory: No such file or directory
 ```
+Or alternatively the directory will show nothing, at this point just close the terminal window.
+
 
 The Script is set to clean up after itself when it's done, so no need to worry about leaving a trail. Happy Squirreling!
 
