@@ -9,5 +9,5 @@ Steps:
 ./squirrel_setup
 ```
 
-Remember to delete the Repo after you've run the commands. Happy Squirrelling!
+The Script is set to clean up after itself when it's done, so no need to worry about leaving a trail. Happy Squirreling!
 ![Squirrel](https://webtoolfeed.files.wordpress.com/2012/04/cute-squirrel-l1.jpg)
