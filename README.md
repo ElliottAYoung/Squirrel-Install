@@ -10,7 +10,7 @@ cd Squirrel-Install
 ```
 Then in terminal run the following command:
 ```bash
-./squirrel_setup
+./squirrel_setup.sh
 ```
 
 If it worked you'll see this error message:
