@@ -8,8 +8,8 @@ Steps:
 ```bash
 git config --global init.templatedir '~/.git-templates'
 mkdir -p ~/.git-templates/hooks
-cp post-commit.sh ~/.git-templates/hooks/
-chmod a+x ~/.git-templates/hooks/post-commit.sh!
+cp post-commit ~/.git-templates/hooks/
+chmod a+x ~/.git-templates/hooks/post-commit
 ```
 
 Remember to delete the Repo after you've run the commands. Happy Squirrelling!
