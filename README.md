@@ -8,7 +8,7 @@ Steps:
 ```
 cd Squirrel-Install
 ```
-3. In terminal run the following command:
+Then in terminal run the following command:
 ```bash
 ./squirrel_setup
 ```
