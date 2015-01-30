@@ -3,8 +3,12 @@
 Steps:
 
 1. Clone the Repo
-
-2. In terminal run the following command:
+ 
+2. Navigate to the directory that was just generated
+```
+cd Squirrel-Install
+```
+3. In terminal run the following command:
 ```bash
 ./squirrel_setup
 ```
