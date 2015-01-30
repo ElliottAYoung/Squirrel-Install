@@ -4,11 +4,13 @@ Steps:
 
 1. Clone the Repo
 
-2. In terminal run the following command: 
+2. In terminal run the following commands: 
 ```bash
-chmod a+x squirrel_setup.sh
-./squirrel_setup.sh
+git config --global init.templatedir '~/.git-templates'
+mkdir -p ~/.git-templates/hooks
+mv post-commit.sh ~/.git-templates/hooks/
+chmod a+x ~/.git-templates/hooks/post-commit.sh
 ```
 
-Remember to delete the Repo after you've run the script. Happy Squirrelling!
+Remember to delete the Repo after you've run the commands. Happy Squirrelling!
 ![Squirrel](https://webtoolfeed.files.wordpress.com/2012/04/cute-squirrel-l1.jpg)
