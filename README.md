@@ -4,12 +4,12 @@ Steps:
 
 1. Clone the Repo
 
-2. In terminal run the following commands: 
+2. In terminal run the following commands:
 ```bash
 git config --global init.templatedir '~/.git-templates'
 mkdir -p ~/.git-templates/hooks
 cp post-commit.sh ~/.git-templates/hooks/
-chmod a+x ~/.git-templates/hooks/post-commit.sh
+chmod a+x ~/.git-templates/hooks/post-commit.sh!
 ```
 
 Remember to delete the Repo after you've run the commands. Happy Squirrelling!
