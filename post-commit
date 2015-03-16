@@ -64,7 +64,7 @@ elsif num==17
 	puts "     *$*      $b           $$"
 	puts "                $r           "
 	puts "                 .        $ "
-elsif num == 2 || num == 12 || num == 22 || num == 32 || num == 43
+elsif num == 2
   	puts "       	         ___"
 	puts "                 //   \\"
 	puts "    	      ||=====||"
